@@ -18,12 +18,14 @@ Nice to meet you! My name is Alexis Hetzel 🤗 I have 5 years of professional e
 
  Projects:
 
-- WIP: Sync Deadlines to Digital Calendar 
-    -Python tool that extracts assignment deadlines from course syllabus, cleans and parses inconsistent date formats, and generates `.ics` calendar files for       import into Google Calendar or preferred online calendar format. 
+- WIP: Sync Deadlines to Digital Calendar
 
-    -Skills used: Python, pandas, python-docx, date parsing, file generation, data normalization
 
-- More? TBD! I am working on building out this repository with more personal & academic projects. More to come! 👩‍💻
+     -Python tool that extracts assignment deadlines from course syllabus, cleans and parses inconsistent date formats, and generates `.ics` calendar files for       import into Google Calendar or preferred online calendar format. 
+
+     -Skills used: Python, pandas, python-docx, date parsing, file generation, data normalization
+
+- More TBD! I am working on building out this repository with more personal & academic projects. 👩‍💻
 
 
 Tools:
