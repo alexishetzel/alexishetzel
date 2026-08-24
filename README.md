@@ -1,6 +1,6 @@
-## Hi, I'm Alexis 👋
+# Hi there, I'm Alexis 👋
 
-# About me 🪴
+## About me 🪴
 Nice to meet you! My name is Alexis Hetzel 🤗 I have 5 years of professional experience working in logistics, with roles spanning operations, pricing, forecasting, and account management. 
  Working with complex supply chain data sparked my interest in using programming to solve problems, and I'm currently pursuing a Master of Analytics at Georgia Tech. One day, I hope to work at the intersection of supply chain management, logistics, & data analytics. 💡
 
