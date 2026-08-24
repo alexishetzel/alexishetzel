@@ -23,7 +23,7 @@ Nice to meet you! My name is Alexis Hetzel 🤗 I have 5 years of professional e
 
     -Skills used: Python, pandas, python-docx, date parsing, file generation, data normalization
 
-- More? TBD! I am working on building out this repository with more personal & educational projects. More to come! 👩‍💻
+- More? TBD! I am working on building out this repository with more personal & academic projects. More to come! 👩‍💻
 
 
 Tools:
